@@ -1,4 +1,4 @@
-# WATCH Project Team
+# WATCH Project
 
 
 # 💡Summary
