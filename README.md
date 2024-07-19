@@ -31,6 +31,7 @@
 **공통(비회원 포함)**
 - 제품 찜하기
 
+<br>
 ---
 
 # Preview
@@ -42,6 +43,7 @@
 ![주문](https://github.com/user-attachments/assets/c9641468-1d99-4f78-a059-f5cf93fa8f3f)
 ![결제](https://github.com/user-attachments/assets/d27d5408-88ea-47a1-8692-cb27490a21aa)
 
+<br>
 ---
 
 # 💡Git
