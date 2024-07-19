@@ -34,8 +34,15 @@
 ---
 
 # Preview
+![메인](https://github.com/user-attachments/assets/f590db4e-a940-42cf-9d55-3e71990ac3a4)
+![관리자통계](https://github.com/user-attachments/assets/696bacd6-f6e4-4114-9e4c-8bdbebfa44f3)
+![마이페이지](https://github.com/user-attachments/assets/9ec7288c-d686-428f-afb9-3362e4c57983)
+![상품](https://github.com/user-attachments/assets/956e4f76-7402-4b29-b084-56ce78e41aa5)
+![제품상세](https://github.com/user-attachments/assets/6eee0d6b-a31f-493d-98fb-dc461921979f)
+![주문](https://github.com/user-attachments/assets/c9641468-1d99-4f78-a059-f5cf93fa8f3f)
+![결제](https://github.com/user-attachments/assets/d27d5408-88ea-47a1-8692-cb27490a21aa)
 
-
+---
 
 # 💡Git
 
